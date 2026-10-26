@@ -10,7 +10,7 @@ signature in this release.
 
 ## Download and start
 
-Open [Releases](https://github.com/cheddar-sauce/Playback-Monkey/releases/latest)
+Open [Releases](https://github.com/cheddar-sauce/Playback-Monkey/releases)
 and download **PlaybackMonkey-1.15-Windows-x64.zip**. Extract the entire ZIP into
 a writable folder, then open `PlaybackMonkey.exe`. Keep the `runtime` folder
 beside the EXE. The Windows ZIP includes the playback engine and two original
