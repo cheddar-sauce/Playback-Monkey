@@ -1,0 +1,17 @@
+Playback Monkey public testing license
+Copyright (c) 2026 Playback Monkey project. All rights reserved.
+
+You may download, install and run Playback Monkey for evaluation and testing.
+You may inspect the supplied application source and privately modify and build
+it for evaluation. This permission does not grant the right to redistribute,
+sublicense, sell, or publish modified or unmodified copies of the application
+or its source. Contact the repository owner for other permissions.
+
+The software is supplied AS IS, without warranty of any kind. To the maximum
+extent permitted by applicable law, the authors are not liable for damages
+arising from its use. Rehearse with your actual media and output hardware.
+
+Separate components retain their own licenses. This license does not restrict
+rights granted by the licenses of libVLC, VLC plugins, their dependencies, or
+the Companion module. See app/THIRD-PARTY-NOTICES.txt, app/COPYING-LIBVLC.txt,
+app/COPYING-VLC.txt, and companion/companion/LICENSE and bundled notices.
